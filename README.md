@@ -1,5 +1,5 @@
 # live-location-tracker3
-# 🗺️ Live Location Tracker
+#  Live Location Tracker
 
 **Created by:** apexsajid
 
@@ -7,20 +7,20 @@ Real-time GPS location tracking system with interactive maps and live updates. T
 
 ---
 
-## ✨ Features
+ Features
 
-- 🌍 **Real-time GPS Tracking** - Track locations in real-time
-- 📍 **Interactive Maps** - Visual representation of coordinates
-- 📊 **Location History** - View past location data
-- 👥 **Multi-User Support** - Track multiple users simultaneously
-- 📱 **Responsive Design** - Works on all devices (mobile, tablet, desktop)
-- 🔐 **Secure Authentication** - Login system for user accounts
-- ⚡ **Live Updates** - Instant location synchronization
-- 📈 **Analytics Dashboard** - View location statistics
+-  **Real-time GPS Tracking** - Track locations in real-time
+-  **Interactive Maps** - Visual representation of coordinates
+-  **Location History** - View past location data
+-  **Multi-User Support** - Track multiple users simultaneously
+-  **Responsive Design** - Works on all devices (mobile, tablet, desktop)
+- **Secure Authentication** - Login system for user accounts
+-  **Live Updates** - Instant location synchronization
+-  **Analytics Dashboard** - View location statistics
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Backend:** Node.js, Express.js
@@ -30,7 +30,7 @@ Real-time GPS location tracking system with interactive maps and live updates. T
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have:
 - Node.js (v14 or higher)
@@ -41,7 +41,7 @@ Before you begin, ensure you have:
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the Repository
 ```bash
